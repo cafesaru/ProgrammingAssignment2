@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## Course: R Programming
 ## Peer Assessments /Programming Assignment 2: Lexical Scoping
-## By: Carlos Sánchez Rudin
+## By: Carlos Sanchez Rudin
 ## On: 2014/08/24
 
 
